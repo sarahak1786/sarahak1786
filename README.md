@@ -1,7 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/127272701/233756443-b8776ce8-fb07-4631-a1a6-86c1c96960d9.png)
 
-| Command | Description |
-| --- | --- |
+| Current Progress | Learning | Plannings | Hobbies |
+| --- | --- | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
