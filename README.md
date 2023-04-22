@@ -1,5 +1,9 @@
 ![Header](https://user-images.githubusercontent.com/127272701/233756443-b8776ce8-fb07-4631-a1a6-86c1c96960d9.png)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahak1786&show_icons=true&locale=en" alt="sarahak1786" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarahak1786&" alt="sarahak1786" /></p> -->
+
 <!-- <h1 align="center">Hi 👋, I'm Sarah!</h1>
 <h3 align="center">A passionate frontend developer from the Bay Area</h3>
 
