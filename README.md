@@ -1,10 +1,10 @@
 ![Header](https://user-images.githubusercontent.com/127272701/233756443-b8776ce8-fb07-4631-a1a6-86c1c96960d9.png)
 
-| Current Progress | Learning | To-Do | Hobbies |
+| Current Progress | Learning | To-Do        | Hobbies |
 | --- | --- | --- | --- |
-| Finished WWDC'23 SSC Submission | Swift/SwiftUI | WWDC'23 SSC Video + README | Webtoon Reading |
-| Completed UniPolitics iOS App | Parts of UIKit | Summer Intern OR App Project | Twitter Posting |
-| Weekly Figma Prototype Projects | Haskell | AP Exam Reviews for May | Medium Blogging |
+| Finished WWDC'23 SSC Submission | Swift/SwiftUI | WWDC'23 SSC Video + README        | Webtoon Reading |
+| Completed UniPolitics iOS App | Parts of UIKit | Summer Intern OR App Project        | Twitter Posting |
+| Weekly Figma Prototype Projects | Haskell | AP Exam Reviews for May        | Medium Blogging |
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahak1786&show_icons=true&locale=en" alt="sarahak1786" /></p>
 
