@@ -3,7 +3,7 @@
 | Current Progress | Learning | To-Do | Education | Hobbies |
 | --- | --- | --- | --- | --- |
 | Finished WWDC'23 SSC Submission | Swift/SwiftUI | WWDC'23 SSC Video + README | Senior @ LHS | Webtoon Reading |
-| Completed UniPolitics iOS App | Parts of UIKit | Summer Intern OR App Project |  Future Student @ UOP | Twitter Posting |
+| Completed UniPolitics iOS App | Parts of UIKit | Summer Intern or iOS App Project |  Future Student @ UOP | Twitter Posting |
 | Weekly Figma Prototype Projects | Haskell | AP Exam Reviews for May | Apple's Documentation | Medium Blogging |
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahak1786&show_icons=true&locale=en" alt="sarahak1786" /></p>
