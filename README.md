@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/127272701/233756443-b8776ce8-fb07-4631-a1a6-86c1c96960d9.png)
+![Header](https://user-images.githubusercontent.com/127272701/236112269-2fd3276c-0b39-4a15-b561-724ae5396682.png)
 
 | Current Progress | Learning | To-Do | Education | Hobbies |
 | --- | --- | --- | --- | --- |
