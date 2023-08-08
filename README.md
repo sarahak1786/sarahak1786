@@ -1,4 +1,5 @@
-Here's a trading card about me!
+Here's a trading card about me! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
 ![Sarah Akhtar - Trading Card 1 0](https://github.com/sarahak1786/sarahak1786/assets/127272701/e37eceb2-2005-465a-a141-b447bee85d68)
 
 
