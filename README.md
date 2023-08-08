@@ -1,4 +1,8 @@
-![Header](https://user-images.githubusercontent.com/127272701/236112269-2fd3276c-0b39-4a15-b561-724ae5396682.png)
+Here's a trading card about me!
+![Sarah Akhtar - Trading Card 1 0](https://github.com/sarahak1786/sarahak1786/assets/127272701/e37eceb2-2005-465a-a141-b447bee85d68)
+
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahak1786&show_icons=true&locale=en" alt="sarahak1786" /></p>
 
 | Current Progress | Learning | To-Do | Education | Hobbies |
 | --- | --- | --- | --- | --- |
@@ -6,7 +10,6 @@
 | Completed UniPolitics iOS App | Parts of UIKit | Summer Intern or iOS App Project |  Future Student @ UOP | Twitter Posting |
 | Weekly Figma Prototype Projects | Haskell | AP Exam Reviews for May | Apple's Documentation | Medium Blogging |
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahak1786&show_icons=true&locale=en" alt="sarahak1786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarahak1786&" alt="sarahak1786" /></p> -->
 
